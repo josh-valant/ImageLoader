@@ -1,6 +1,6 @@
 /*
 Testing Acceptance Criteria
-- when given an invalid file path a FileNotFoundException shoudl be thrown.
+- when given an invalid file path a FileNotFoundException should be thrown.
 - when given a file with valid data, it should return an image with the right number of rows and columns, and the correct name and data numbers.
 - when given a file with rows or columns not parseable as ints, a NumberFormatException should be thrown.
 - when given a file with a data number not parseable as a short, a NumberFormatException should be thrown.
